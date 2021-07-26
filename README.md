@@ -1,5 +1,7 @@
 # Revendedor O Boticário
 
+Desafio realizado no processo seletivo do Boticário
+
 Essa api foi desenvolvida para fazer o controle de Cashback, onde o valor será disponibilizado como
 crédito para a próxima compra da revendedora no Boticário;
 
