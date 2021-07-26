@@ -1,14 +1,11 @@
-# Empresas App
+# Revendedor O Boticário
 
-Projeto de cadastro de empresas, com a backend e frontend.
+Essa api foi desenvolvida para fazer o controle de Cashback, onde o valor será disponibilizado como
+crédito para a próxima compra da revendedora no Boticário;
 
 ### 🚀 Tecnologias
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com a seguinte tecnologia:
  - Node.js
- - React
-
-### 🎨 Frontend
-Para ver informações sobre o frontend ver README da pasta 📁frontend
 
 ### 🚧 Backend
 Para ver a documentação e outras informações sobre o backend ver README da pasta 📁backend
